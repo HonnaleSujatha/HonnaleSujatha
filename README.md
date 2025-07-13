@@ -1,8 +1,3 @@
-<!-- 🌟 Banner with your name -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HonnaleSujatha/HonnaleSujatha/main/22b84949-bcb6-4eea-9a8f-2f279fa3eddb.png" alt="Sujatha Honnale Banner" style="width:100%; border-radius:10px"/>
-</p>
-
 <!-- 🎨 Gradient Name Heading -->
 <h1 align="center">
   <span style="background: linear-gradient(to right, #f72585, #7209b7, #3a0ca3, #4361ee, #4cc9f0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -19,7 +14,7 @@
 
 <!-- ✨ Hovering Moving Quote in Elegant Font -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&pause=1500&color=8B008B&center=true&vCenter=true&width=700&lines=Driven+by+data,+defined+by+curiosity+—+ready+to+turn+insights+into+impact." alt="Driven Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&pause=1500&color=8B008B&center=true&vCenter=true&width=800&lines=Driven+by+data,+defined+by+curiosity+—+ready+to+turn+insights+into+impact." alt="Driven Quote" />
 </p>
 
 ---
