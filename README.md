@@ -1,17 +1,23 @@
-<!-- Optional Banner (upload to your repo and replace the URL below) -->
-<!-- 
-<img src="https://github.com/HonnaleSujatha/HonnaleSujatha/assets/your_image_id/banner-datascience.png" alt="banner" style="width:100%"/> 
--->
+<!-- 🌟 Add a banner (replace the link after uploading in your repo) -->
+<img src="https://raw.githubusercontent.com/HonnaleSujatha/HonnaleSujatha/main/assets/banner-ds.png" alt="banner" style="width:100%; border-radius:10px"/>
 
-<h1 align="center">Hi, I'm Sujatha Honnale 👩‍💻</h1>
+<!-- 🎯 Heading with colorful gradient -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff6f61, #f72585, #7209b7, #3a0ca3, #4361ee, #4cc9f0); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Hi, I'm Sujatha Honnale 👩‍💻
+  </span>
+</h1>
 
+<!-- 💬 Typing subtitle with soft glow -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%7C+Machine+Learning+%7C+Analytics;Curiosity+meets+Creativity;Power+BI+%7C+Python+%7C+SQL+%7C+AI+Explorer" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Data+Science+%7C+ML+%7C+AI+%7C+Analytics;Driven+by+Curiosity+%7C+Focused+on+Impact;Python+%7C+Power+BI+%7C+SQL+%7C+Dashboards" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- ✨ Highlighted Quote Section -->
+<!-- 💡 Motivational Quote -->
 <p align="center">
-  <strong><i><span style="font-size:18px; color:#FF6F61;">“Driven by data, defined by curiosity — ready to turn insights into impact.”</span></i></strong>
+  <b><i><span style="font-size:18px; color:#d62828;">“Driven by data, defined by curiosity — ready to turn insights into impact.”</span></i></b>
 </p>
 
 ---
@@ -21,39 +27,4 @@
 Hi there! I’m **Sujatha Honnale**, a passionate explorer in the world of **Data Science**, where curiosity meets creativity 💡
 
 🔍 I'm driven by a deep interest in **Machine Learning**, **Artificial Intelligence**, and **Data Analytics**.  
-Whether it's building ML models, visualizing insights, or uncovering hidden patterns — I love turning complexity into clarity through data.
-
-💡 I believe in learning by doing, and I’m always excited to explore new tools, work on real-world problems, and build impactful solutions.
-
-🎯 My learning mindset helps me constantly evolve through:
-- 📊 Real-world data projects that drive insights  
-- 🤖 Hands-on experimentation with Machine Learning techniques  
-- 📈 Visual storytelling through dashboards and analytics  
-
-🌟 I'm committed to continuous growth and collaboration, aiming to contribute meaningfully in the data-driven world.
-
----
-
-### 🛠️ Skills & Tools
-
-- 🐍 **Python** for data analysis, modeling, and automation  
-- 🧮 **SQL** for querying and managing structured data  
-- 📊 **Power BI**, Tableau, Excel for dashboarding and business insights  
-- 🧠 **Scikit-learn**, Pandas, NumPy for machine learning and preprocessing  
-- 🛠️ Tools: Git, Jupyter Notebook, Streamlit
-
----
-
-### 🚀 Projects
-
-- 🔬 **Lung Cancer Detection** – Machine Learning model to predict stages based on clinical data  
-- 📊 **Sales & Revenue Dashboard** – Built using Power BI for business performance insights  
-- 📉 **Time Series Forecasting** – ETS-based prediction model for future trend estimation  
-- ⏳ *More exciting projects coming soon...*
-
----
-
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/honnale-sujatha-b551652b2)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:honnalesujatha@gamil.com)
+Whether it's building ML models, visualizing insights, or uncovering hidden patterns —
