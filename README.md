@@ -1,5 +1,5 @@
-<!-- ✅ Add a banner here if you upload one -->
-<!-- Example: 
+<!-- Optional Banner (upload to your repo and replace the URL below) -->
+<!-- 
 <img src="https://github.com/HonnaleSujatha/HonnaleSujatha/assets/your_image_id/banner-datascience.png" alt="banner" style="width:100%"/> 
 -->
 
@@ -7,6 +7,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%7C+Machine+Learning+%7C+Analytics;Curiosity+meets+Creativity;Power+BI+%7C+Python+%7C+SQL+%7C+AI+Explorer" />
+</p>
+
+<!-- ✨ Highlighted Quote Section -->
+<p align="center">
+  <strong><i><span style="font-size:18px; color:#FF6F61;">“Driven by data, defined by curiosity — ready to turn insights into impact.”</span></i></strong>
 </p>
 
 ---
@@ -52,7 +57,3 @@ Whether it's building ML models, visualizing insights, or uncovering hidden patt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/honnale-sujatha-b551652b2)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:honnalesujatha@gamil.com)
-
----
-
-> 💬 *"In Data Science, I find curiosity. In Machine Learning, I find creativity."*
