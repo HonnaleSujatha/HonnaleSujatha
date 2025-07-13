@@ -1,5 +1,5 @@
-
-<img src="https://github.com/HonnaleSujatha/HonnaleSujatha/blob/main/assets/banner-ds.jpg" alt="Data Science Banner" style="width:100%; border-radius:10px"/>
+<!-- 🌟 Banner with your name -->
+<img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png" alt="Sujatha Honnale" style="width:100%; border-radius:10px"/>
 
 <!-- 🎨 Gradient Name Heading -->
 <h1 align="center">
@@ -15,20 +15,14 @@
   </a>
 </p>
 
-<!-- ✨ Quote with hover effect -->
+<!-- ✨ Hovering Moving Quote in Elegant Font -->
 <p align="center">
-  <em>
-    <strong>
-      <span title="This quote defines my passion for data.">
-        <span style="color:#3a0ca3;">“Driven by data, defined by curiosity — ready to turn insights into impact.”</span>
-      </span>
-    </strong>
-  </em>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&pause=1500&color=8B008B&center=true&vCenter=true&width=700&lines=Driven+by+data,+defined+by+curiosity+—+ready+to+turn+insights+into+impact." alt="Driven Quote" />
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 👩‍💼 About Me
 
 Hi there! I’m **Sujatha Honnale**, a passionate explorer in the world of **Data Science**, where curiosity meets creativity 💡
 
@@ -42,38 +36,46 @@ Whether it’s building ML models, visualizing insights, or uncovering hidden pa
 - 🤖 Hands-on experimentation with Machine Learning techniques  
 - 📈 Visual storytelling through dashboards and analytics
 
-- ### 🧰 Skills & Tools
-
-- 🐍 **Python** — data preprocessing, EDA, modeling  
-- 📊 **Power BI**, Tableau, Excel — dashboards & visual analytics  
-- 🧮 **SQL** — data extraction, joins, cleaning  
-- 🧠 **Scikit-learn**, Pandas, NumPy — model building & analysis  
-- 📚 **Jupyter Notebook**, Streamlit — rapid prototyping & deployment  
-- 🔧 Git & GitHub — version control and collaboration  
-
----
-
-### 🚀 Projects
-
-- 🔬 **Lung Cancer Detection** – Built ML model to predict cancer stages  
-- 📊 **Sales & Revenue Dashboard** – Business insights using Power BI  
-- 📈 **Time Series Forecasting** – Future predictions using ETS models  
-- 🧠 **Healthcare Fraud Detection** – Identifying risky providers from claims data  
-- 🛠️ *More exciting projects in progress…*
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honnale-sujatha-b551652b2)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:honnalesujatha@gamil.com)
-
----
-
-> 💬 *“Curiosity is the compass, and data is the path — let's decode the world through science!”*
-✅ What’s Fixed N
-
 🌟 I’m committed to continuous growth and collaboration, aiming to contribute meaningfully in the data-driven world.
 
 ---
 
+## 🛠 Skills & Tools
+
+- 🐍 **Python** – Data manipulation, analysis, and ML model building  
+- 📊 **Power BI** – Dashboard development, interactive visuals  
+- 🧮 **SQL** – Data extraction, joins, transformations  
+- 🧠 **Machine Learning** – Scikit-learn, model evaluation  
+- 📚 **Pandas / NumPy / Matplotlib** – Data wrangling and visualization  
+- 🚀 **Streamlit** – Building interactive ML web apps  
+- 🧪 **Jupyter Notebooks** – Exploratory data analysis  
+- 💻 **Git & GitHub** – Version control and collaboration
+
+---
+
+## 🚀 Projects
+
+- 🔬 **Lung Cancer Detection**  
+  Developed a machine learning model to predict lung cancer stages using patient data.
+
+- 📊 **Sales & Revenue Dashboard**  
+  Built a professional dashboard in Power BI for business insights and performance tracking.
+
+- 📈 **Time Series Forecasting**  
+  Used ETS models to forecast sales and trends with seasonal and trend components.
+
+- 🧠 **Healthcare Fraud Detection**  
+  Predicted potentially fraudulent medical providers using claim history and patient behavior.
+
+- ⚙️ **More Projects Coming Soon...**
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honnale-sujatha-b551652b2)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:honnalesujatha@gamil.com)
+
+---
+
+> 💬 *“Curiosity is the compass, and data is the path — let's decode the world through science!”*
