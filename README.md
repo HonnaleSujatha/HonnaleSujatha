@@ -12,16 +12,14 @@
   </a>
 </p>
 
-<!-- ✨ Hovering Moving Quote in Elegant Font -->
+<!-- ✨ Static Quote (Not Animated) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&pause=1500&color=8B008B&center=true&vCenter=true&width=800&lines=Driven+by+data,+defined+by+curiosity+—+ready+to+turn+insights+into+impact." alt="Driven Quote" />
+  <strong>Driven by data, defined by curiosity — ready to turn insights into impact.</strong>
 </p>
 
 ---
 
-## 👩‍💼 About Me
-
-Hi there! I’m **Sujatha Honnale**, a passionate explorer in the world of **Data Science**, where curiosity meets creativity 💡
+I’m **Sujatha Honnale**, a passionate explorer in the world of **Data Science**, where curiosity meets creativity 💡
 
 🔍 I'm driven by a deep interest in **Machine Learning**, **Artificial Intelligence**, and **Data Analytics**.  
 Whether it’s building ML models, visualizing insights, or uncovering hidden patterns — I love turning complexity into clarity through data.
