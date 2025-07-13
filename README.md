@@ -1,4 +1,4 @@
-<!-- 🌟 Add a banner (replace the link after uploading in your repo) -->
+
 <img src="https://raw.githubusercontent.com/HonnaleSujatha/HonnaleSujatha/main/assets/banner-ds.png" alt="banner" style="width:100%; border-radius:10px"/>
 
 <!-- 🎯 Heading with colorful gradient -->
