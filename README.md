@@ -1,5 +1,7 @@
 <!-- 🌟 Banner with your name -->
-<img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png" alt="Sujatha Honnale" style="width:100%; border-radius:10px"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HonnaleSujatha/HonnaleSujatha/main/22b84949-bcb6-4eea-9a8f-2f279fa3eddb.png" alt="Sujatha Honnale Banner" style="width:100%; border-radius:10px"/>
+</p>
 
 <!-- 🎨 Gradient Name Heading -->
 <h1 align="center">
