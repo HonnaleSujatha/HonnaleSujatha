@@ -42,6 +42,37 @@ Whether it’s building ML models, visualizing insights, or uncovering hidden pa
 - 🤖 Hands-on experimentation with Machine Learning techniques  
 - 📈 Visual storytelling through dashboards and analytics
 
+- ### 🧰 Skills & Tools
+
+- 🐍 **Python** — data preprocessing, EDA, modeling  
+- 📊 **Power BI**, Tableau, Excel — dashboards & visual analytics  
+- 🧮 **SQL** — data extraction, joins, cleaning  
+- 🧠 **Scikit-learn**, Pandas, NumPy — model building & analysis  
+- 📚 **Jupyter Notebook**, Streamlit — rapid prototyping & deployment  
+- 🔧 Git & GitHub — version control and collaboration  
+
+---
+
+### 🚀 Projects
+
+- 🔬 **Lung Cancer Detection** – Built ML model to predict cancer stages  
+- 📊 **Sales & Revenue Dashboard** – Business insights using Power BI  
+- 📈 **Time Series Forecasting** – Future predictions using ETS models  
+- 🧠 **Healthcare Fraud Detection** – Identifying risky providers from claims data  
+- 🛠️ *More exciting projects in progress…*
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honnale-sujatha-b551652b2)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:honnalesujatha@gamil.com)
+
+---
+
+> 💬 *“Curiosity is the compass, and data is the path — let's decode the world through science!”*
+✅ What’s Fixed N
+
 🌟 I’m committed to continuous growth and collaboration, aiming to contribute meaningfully in the data-driven world.
 
 ---
