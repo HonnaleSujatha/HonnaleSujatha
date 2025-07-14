@@ -48,19 +48,7 @@ Whether it’s building ML models, visualizing insights, or uncovering hidden pa
 
 ---
 
-## 🚀 Projects
 
-- 🔬 **Lung Cancer Detection**  
-  Developed a machine learning model to predict lung cancer stages using patient data.
-
-- 📊 **Sales & Revenue Dashboard**  
-  Built a professional dashboard in Power BI for business insights and performance tracking.
-
-- 📈 **Time Series Forecasting**  
-  Used ETS models to forecast sales and trends with seasonal and trend components.
-
-- 🧠 **Healthcare Fraud Detection**  
-  Predicted potentially fraudulent medical providers using claim history and patient behavior.
 
 - ⚙️ **More Projects Coming Soon...**
 
