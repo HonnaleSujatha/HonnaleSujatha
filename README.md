@@ -8,7 +8,7 @@
 <!-- 🚀 Typing Animation Tag in Navy Blue -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000080&center=true&vCenter=true&width=500&lines=Data+Science+%7C+ML+%7C+AI+%7C+Analytics;Driven+by+Curiosity+%7C+Defined+by+Learning;Python+%7C+Power+BI+%7C+SQL+%7C+EDA+%7C+Streamlit" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000080&center=true&vCenter=true&width=500&lines=Data+Science+%7C+ML+%7C+AI+%7C+Analytics;Driven+by+Curiosity+%7C+Defined+by+Learning;Python+%7C+Power+BI+%7C+SQL+%7C+EDA+%7C+Streamlit" alt="Animated text describing my skills" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 I’m **Sujatha Honnale**, a passionate explorer in the world of **Data Science**, where curiosity meets creativity 💡
 
 🔍 I'm driven by a deep interest in **Machine Learning**, **Artificial Intelligence**, and **Data Analytics**.  
-Whether it’s building ML models, visualizing insights, or uncovering hidden patterns — I love turning complexity into clarity through data.
+Whether I’m building ML models, visualizing insights, or uncovering hidden patterns — I love turning complexity into clarity through data.
 
 💡 I believe in learning by doing, and I’m always excited to explore new tools, work on real-world problems, and build impactful solutions.
 
@@ -48,16 +48,13 @@ Whether it’s building ML models, visualizing insights, or uncovering hidden pa
 
 ---
 
-
-
 - ⚙️ **More Projects Coming Soon...**
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/honnalesujatha)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:honnalesujatha@gamil.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honnalesujatha) [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:honnalesujatha@gmail.com)
 
 ---
 
